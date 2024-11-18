@@ -49,6 +49,7 @@ Create a new branch for your feature or fix.
 Submit a pull request with a clear description of your changes.
 Please ensure that your code follows the project's style guidelines and is well-tested.
 
-Donations
+Donations:
+
 If you find this project helpful and would like to support its maintenance, consider donating via PayPal:  
 Donate via PayPal ([https://www.paypal.com/donate/?hosted_button_id=8SVCD84MJYBVA])
