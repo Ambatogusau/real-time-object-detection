@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 1. Run the Application:
 
-python app.py  
+python main.py  
 
 2. Access the Web Interface:
 Open your web browser and navigate to:
@@ -39,3 +39,16 @@ Open your web browser and navigate to:
 Model: Faster R-CNN with ResNet50 backbone.
 Average Inference Time: [Your measured time] ms per frame.
 Confidence Threshold: 0.5 (default).
+
+
+Contributing
+We welcome contributions to this project! If you'd like to help, follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or fix.
+Submit a pull request with a clear description of your changes.
+Please ensure that your code follows the project's style guidelines and is well-tested.
+
+Donations
+If you find this project helpful and would like to support its maintenance, consider donating via PayPal:  
+Donate via PayPal ([https://www.paypal.com/donate/?hosted_button_id=8SVCD84MJYBVA])
