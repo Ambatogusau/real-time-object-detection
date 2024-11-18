@@ -41,10 +41,12 @@ Average Inference Time: [Your measured time] ms per frame.
 Confidence Threshold: 0.5 (default).
 
 
-Contributing
+Contributing:
+
 We welcome contributions to this project! If you'd like to help, follow these steps:
 
 Fork the repository.
+
 Create a new branch for your feature or fix.
 Submit a pull request with a clear description of your changes.
 Please ensure that your code follows the project's style guidelines and is well-tested.
